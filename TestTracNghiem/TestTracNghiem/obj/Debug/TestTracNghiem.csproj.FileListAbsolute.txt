@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\bin\Debug\TestTracNghiem.exe.config
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.Form1.resources
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\bin\Debug\TestTracNghiem.exe
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\bin\Debug\TestTracNghiem.pdb
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.exe
+E:\LuuDuLieuSinhVien\PhanQuocKhai\TestTracNghiem\TestTracNghiem\obj\Debug\TestTracNghiem.pdb
